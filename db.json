@@ -1,0 +1,82 @@
+{
+  "utilisateurs": [
+    {
+      "id": "db70",
+      "nom": "Andrianarison",
+      "prenom": "Nantenaina Sarobidy",
+      "email": "test@gmail.com",
+      "mdp": "12345678",
+      "mdpConfirmation": "12345678"
+    },
+    {
+      "id": "e11e",
+      "nom": "Bidyh",
+      "prenom": "Andrianarison",
+      "email": "test@gmail.com",
+      "mdp": "azertyuiop",
+      "mdpConfirmation": "azertyuiop"
+    },
+    {
+      "id": "b943",
+      "nom": "Sawyer",
+      "prenom": "Sid",
+      "email": "exemple@gmail.com",
+      "mdp": "12345678",
+      "mdpConfirmation": "12345678"
+    },
+    {
+      "id": "f9c6",
+      "nom": "Andrianaris",
+      "prenom": "Nate",
+      "email": "jizz@gmail.com",
+      "mdp": "azertyuiop",
+      "mdpConfirmation": "azertyuiop"
+    },
+    {
+      "id": "ed1e",
+      "nom": "Andrianaris",
+      "prenom": "Nate",
+      "email": "jizz@gmail.com",
+      "mdp": "azertyuiop",
+      "mdpConfirmation": "azertyuiop"
+    },
+    {
+      "id": "c122",
+      "nom": "Monsieur",
+      "prenom": "Anonymes",
+      "email": "anonymes@gmail.com",
+      "mdp": "azertyuiop",
+      "mdpConfirmation": "azertyuiop"
+    }
+  ],
+  "publications": [
+    {
+      "id": "b98a",
+      "contenu": "Partagé",
+      "imageUrl": "qsdfqdslkmfkjjnlkqslkdfjnskqlfsqdlmfhsmdqfhzaer"
+    },
+    {
+      "id": "52bc",
+      "contenu": "sfqdf",
+      "imageUrl": "sqfd"
+    },
+    {
+      "id": "1525",
+      "contenu": "fsgfdgf",
+      "imageUrl": "fsfs",
+      "idUtilisateur": "f9c6",
+      "datePost": "2024-07-02T11:34:47.616Z",
+      "likePost": 0,
+      "auteur": "Andrianaris"
+    },
+    {
+      "id": "51be",
+      "contenu": "Hahaha",
+      "imageUrl": "https://img.freepik.com/premium-photo/collage-with-finance-money_23-2151554814.jpg?w=740",
+      "idUtilisateur": "f9c6",
+      "datePost": "2024-07-02T12:54:56.951Z",
+      "likePost": 0,
+      "auteur": "Andrianaris"
+    }
+  ]
+}

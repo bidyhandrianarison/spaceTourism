@@ -1,0 +1,10 @@
+  555  npm help
+  556  npm -l
+  557  npm whoami
+  558  npm run dev
+  559  chmod +x node_modules/.bin/vite
+  560  npm run dev
+  561  npx vite
+  562  chmod +x /home/bidyh/Vidéos/spacetourismv4/spacetourismv3/node_modules/@esbuild/linux-x64/bin/esbuild
+  563  npm run dev
+  564  history | tail > resolveError.txt
